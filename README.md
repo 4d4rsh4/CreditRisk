@@ -1,7 +1,6 @@
 # Financial Credit Risk & Default Prediction
-> **An end-to-end Machine Learning solution for high-dimensional credit scoring.**
 
-## Project Overview
+# Project Overview
 This project addresses the "Class Imbalance" challenge in Fintech by predicting loan default probability. Using the Home Credit dataset, I synthesized data from multiple relational tables (Applicants, Bureau, and Previous Applications) to build a robust risk-assessment engine.
 
 # Tech Stack
@@ -23,9 +22,4 @@ Given the extreme class imbalance (8% delinquency rate), I optimized the model f
 - **Recall (Class 1):** 0.65
 - **Primary Drivers:** External Credit Scores, Educational Attainment, and Active Loan Count.
 
-## 📊 Business Intelligence
-[INSERT SCREENSHOT OF YOUR FEATURE IMPORTANCE CHART HERE]
-[INSERT SCREENSHOT OF YOUR RISK DASHBOARD HERE]
-
----
-*Developed by Adarsha Rai*
+ 
