@@ -23,5 +23,8 @@ Given the extreme class imbalance (8% delinquency rate), I optimized the model f
 - Primary Drivers: External Credit Scores, Educational Attainment, and Active Loan Count.
   
 # Tableau Visualization
-<img width="1186" height="883" alt="image" src="https://github.com/user-attachments/assets/b2ab947e-7d4e-4d12-bb27-16751730739a" />
+
+<img width="1184" height="881" alt="image" src="https://github.com/user-attachments/assets/427062c4-c29b-4da6-8fd8-c27525b407b2" />
+
+
 <img width="1186" height="883" alt="image" src="https://github.com/user-attachments/assets/c8e3995a-ee88-4c8a-b7ab-fdf76f4ffec2" />
